@@ -1,3 +1,3 @@
    ## Unreleased
-   - <bullet describing the introduction and history updates>
-   - <bullet describing the conflict resolution in docs/collaboration.md>
+   - We merge the introduction and history updates>
+   - Then we manage the conflict resolution in docs/collaboration.md>
